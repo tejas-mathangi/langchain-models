@@ -1,0 +1,27 @@
+# langchain Core 
+langchain 
+langchain-core
+
+# openai Integration
+langchain-openai
+openai
+
+# anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration   
+langchain-huggingface
+huggingface-hub 
+transformers
+
+# Envirnemnt Variables Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+#  pip install "numpy<2" , had to do this later for running the llms llocally
+scikit-learn
